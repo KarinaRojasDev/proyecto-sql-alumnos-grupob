@@ -36,6 +36,8 @@ Proyecto desarrollado por:
 📁 root
  ├── README.md
  └── queries.sql
+ └── notebook.ipynb
+ └── LICENSE
  └──assets/
      ├── pgadming.png
      ├── er-diagram.png
